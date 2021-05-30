@@ -1,0 +1,13 @@
+Import Java.util.io.*;
+Import Java.io.*;
+Class Dhanya
+{
+  public static void main(String ar[])
+   {
+     System.out.println("Welcome in #GIT");
+   }
+  public static int ArrayDataType(ar() int ,n int )
+  {
+     return ar.DataType;
+  }
+}
